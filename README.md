@@ -1,13 +1,17 @@
-# flipr-e-cabin
+# E-cabin (flipr contest 2022)
 
-Problem Statement -> Build a web application where employers can keep a check on their employees' work done every particular day.
+### Build this site in less than 8 hrs.
 
-## Contrbutors:
-B. Dhanush (3rd Year CSE @ NIT AP) 
-C. Ashish Reddy (3rd Year CSE @ NIT AP)
-G. Prem Kumar (3rd Year CSE @ NIT AP) 
+### Problem Statement: Build a web application where employers can keep a check on their employees' work done every particular day.
+
+### Contrbutors:
+B. Dhanush (3rd Year CSE @ NIT AP). 
+C. Ashish Reddy (3rd Year CSE @ NIT AP).
+G. Prem Kumar (3rd Year CSE @ NIT AP) .
 
 ## The webite is completely responive and demo images have been attached in this file.
+
+## Login
 
 # Test Admin credentials
 email - ashKetchum@gmail.com
@@ -19,8 +23,6 @@ password - 89197
 
 # As the website is live, you will have to add tasks to see the charts, as we have added tasks only for dates 10th October or less.
 ## The default password is first five digits of the mobile number. 
-
-## Login
 
 The design of the login page was was recreated by us taking inspiration from the sign-in page of Amazon. Both employees and admins can login thourgh 
 this page. We added an isAdmin boolean variable in the database for each employee to differentiate between employee and admin.
@@ -132,4 +134,3 @@ The red icons indicate that the employee cannot edit those fields
 <img width="1440" alt="Screenshot 2022-10-10 at 12 06 37" src="https://user-images.githubusercontent.com/75008644/194809818-34c4eb2c-3e26-472e-baa3-4315dc369d48.png">
 
 
-# E-Cabin-
