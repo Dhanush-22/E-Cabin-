@@ -2,19 +2,19 @@
 
 ### Build this site in less than 8 hrs.
 
-### Problem Statement: Build a web application where employers can keep a check on their employees' work done every particular day.
+### Problem Statement: Build a web application where manager (or any higher official) can track their employees' work done every particular day as well as weekly progress.
 
 ### Contrbutors:
-B. Dhanush (3rd Year CSE @ NIT AP). 
-C. Ashish Reddy (3rd Year CSE @ NIT AP).
-G. Prem Kumar (3rd Year CSE @ NIT AP) .
+B. Dhanush (3rd Year CSE @ NIT AP). <br/>
+C. Ashish Reddy (3rd Year CSE @ NIT AP). <br/>
+G. Prem Kumar (3rd Year CSE @ NIT AP) . <br/>
 
 ## The webite is completely responive and demo images have been attached in this file.
 
 ## Login
 
 # Test Admin credentials
-email - ashKetchum@gmail.com
+email - ashKetchum@gmail.com <br/>
 password - 99221
 
 # Test Employee credentials
