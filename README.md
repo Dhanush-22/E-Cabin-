@@ -2,9 +2,12 @@
 
 Problem Statement -> Build a web application where employers can keep a check on their employees' work done every particular day.
 
-## Made by -> Chevva Ashish Reddy, Gajji Prem Kumar, Bedre Dhanush
+## Contrbutors:
+B. Dhanush (3rd Year CSE @ NIT AP) 
+C. Ashish Reddy (3rd Year CSE @ NIT AP)
+G. Prem Kumar (3rd Year CSE @ NIT AP) 
 
-## The webite is responive. Responsive images at the end of readme. You can also check it out on a mobile.
+## The webite is completely responive and demo images have been attached in this file.
 
 # Test Admin credentials
 email - ashKetchum@gmail.com
