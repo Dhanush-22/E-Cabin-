@@ -4,7 +4,7 @@
 
 ### Problem Statement: Build a web application where manager (or any higher official) can track their employees' work done every particular day as well as weekly progress.
 
-### Contrbutors:
+### Contributors:
 B. Dhanush (3rd Year CSE @ NIT AP). <br/>
 C. Ashish Reddy (3rd Year CSE @ NIT AP). <br/>
 G. Prem Kumar (3rd Year CSE @ NIT AP) . <br/>
@@ -18,7 +18,7 @@ email - ashKetchum@gmail.com <br/>
 password - 99221
 
 # Test Employee credentials
-email - ashishoct2002.ketchum@gmail.com
+email - ashishoct2002.ketchum@gmail.com <br/>
 password - 89197
 
 # As the website is live, you will have to add tasks to see the charts, as we have added tasks only for dates 10th October or less.
@@ -30,12 +30,6 @@ After entering the email, click on Continue button, then enter the password and 
 admin dashboard, else employee dashboard.
 
 The password is hashed using bcrypt, when the user tries to login, the entered password and stored password are compared.
-
-If you want to change the email that you entered, click on Change link.
-<img width="1440" alt="Screenshot 2022-10-10 at 11 31 36" src="https://user-images.githubusercontent.com/75008644/194806837-4677579a-9129-4095-86f5-9115c33582f6.png">
-
-If no tasks of the employee are found.....
-<img width="1440" alt="Screenshot 2022-10-10 at 12 09 17" src="https://user-images.githubusercontent.com/75008644/194810135-8083770d-a980-40c7-9c83-7c33a5cedf5d.png">
 
 ## Admin Dashboard
 <img width="1440" alt="Screenshot 2022-10-10 at 11 33 49" src="https://user-images.githubusercontent.com/75008644/194807768-78ab4bc8-a5b9-4449-be05-106867a9ba97.png">
